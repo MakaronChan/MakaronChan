@@ -1,6 +1,6 @@
 # 💛 MakaronChan
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakaronChan&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakaronChan&theme=dark&border_color=35dbac)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakaronChan&repo=TempDeleter)](https://github.com/anuraghazra/github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
