@@ -5,4 +5,4 @@
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=MakaronChan&repo=Clearlag-Languages&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=MakaronChan&repo=CLauncher&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=30,e96443,904e95)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=MakaronChan&repo=CLauncher&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=30,e96443,904e95)
