@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://media.discordapp.net/attachments/969461028138147891/1002027520486551654/o1yAt9JwZiT4G6c1658972329_1658972336.png?width=413&height=413" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">MakaronChan</h2>
- <p align="center">from Japan. I like You.</p>
+ <p align="center">I'm from Japan. Japan Minecraft Developer. client and server.</p>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakaronChan&show_icons=true&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true)
