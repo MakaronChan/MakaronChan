@@ -8,7 +8,5 @@
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=MakaronChan&repo=DiscordSRV-Japanese&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=30,e96443,904e95)
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=MakaronChan&repo=TempDeleter&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=30,e96443,904e95)
-
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=MakaronChan&repo=CLauncher&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=30,e96443,904e95)
-
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=MakaronChan&repo=MLauncher&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=30,e96443,904e95)
