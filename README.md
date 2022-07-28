@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/84844245?v=4" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://media.discordapp.net/attachments/969461028138147891/1002027520486551654/o1yAt9JwZiT4G6c1658972329_1658972336.png?width=413&height=413" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">あなたの README に自動生成された GitHub の統計情報を載せましょう！</p>
 </p>
