@@ -1,4 +1,8 @@
-# 💛 MakaronChan
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+ <p align="center">あなたの README に自動生成された GitHub の統計情報を載せましょう！</p>
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakaronChan&show_icons=true&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakaronChan&theme=dark&text_color=fff&bg_color=30,e96443,904e95&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
